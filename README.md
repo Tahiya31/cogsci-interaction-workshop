@@ -11,7 +11,7 @@ Python based tutorials for interaction research data analysis.
 
 ### How to start
 
-1. Click on one of the tutorials and Open it in Google Colab.
+1. Click on one of the tutorials and open it in Google Colab.
 2. Click on 'File' in top-menu and save a copy to your own drive to make changes to the notebook.
 3. Open the left menu and click on the folder icon. Here, you can create folders store your input and output files.
 
