@@ -19,4 +19,7 @@ Python based tutorials for interaction research data analysis.
 
 Coming soon!
 
+### Feedback
+
+We are building a complete set of resources an dtoolbox for supporting multimodality in interaction research and we would love to hear from you! Please share what other tools might be useful for interaction research and should be included here.
 
