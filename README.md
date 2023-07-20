@@ -5,8 +5,8 @@ Python based tutorials for interaction research data analysis.
 ### Tutorials
 
 1. [Tutorial 1](https://drive.google.com/file/d/11gSLOujqwAhY9jE3URm5C34NdEiOvFUL/view?usp=sharing) walks through how to use OpenPose on video recordings to extract body pose information.
-2. Tutorial 2 walks through how to use OpenSMILE on video recordings to extract audio feature information.
-3. Tutorial 3 walks through how to use Whisper on video recordings to get transcript from audio.
+2. [Tutorial 2](https://drive.google.com/file/d/1PXNbUenfNRRzxGr65sObsIIdXNHUDPpy/view?usp=sharing) walks through how to use OpenSMILE on video recordings to extract audio feature information.
+3. [Tutorial 3](https://drive.google.com/file/d/1zsZPpRS5cTosTDgdJ1pzHO7KtscpSQ49/view?usp=sharing) walks through how to use Whisper on video recordings to get transcript from audio.
 
 
 ### How to
