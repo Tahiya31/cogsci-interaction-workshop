@@ -9,10 +9,11 @@ Python based tutorials for interaction research data analysis.
 3. [Tutorial 3](https://drive.google.com/file/d/1zsZPpRS5cTosTDgdJ1pzHO7KtscpSQ49/view?usp=sharing) walks through how to use Whisper on video recordings to get transcript from audio.
 
 
-### How to
+### How to start
 
-1. Download this repository or download this google drive folder.
-2. Follow Tutorial 1, 2, 3 to download each tool we are using. We have provided data in `conversation_data` and sample analyzed data is stored as csvs.
+1. Click on one of the tutorials and Open it in Google Colab.
+2. Click on 'File' in top-menu and save a copy to your own drive to make changes to the notebook.
+3. Open the left menu and click on the folder icon. Here, you can create folders store your input and output files.
 
 ### Video Walk-through
 
