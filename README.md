@@ -11,7 +11,7 @@ Python based tutorials for interaction research data analysis.
 
 ### How to
 
-1. First clone this repository or download this google drive folder.
+1. Download this repository or download this google drive folder.
 2. Follow Tutorial 1, 2, 3 to download each tool we are using. We have provided data in `conversation_data` and sample analyzed data is stored as csvs.
 
 ### Video Walk-through
