@@ -1,4 +1,4 @@
-# cogsci-interaction-workshop: putting interaction center-stage and tools to support research
+# cogsci-interaction-workshop: putting interaction center-stage 
 Python based tutorials for interaction research data analysis.
 
 
