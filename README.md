@@ -17,7 +17,7 @@ Python based tutorials for interaction research data analysis.
 
 ### Video Walk-through
 
-Coming soon!
+[Walk through tutorial 3 on whisper.](https://youtu.be/SPu5x7J61lM)
 
 ### Feedback
 
