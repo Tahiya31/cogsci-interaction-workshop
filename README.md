@@ -25,3 +25,6 @@ Python based tutorials for interaction research data analysis.
 
 We are building a complete set of resources and toolbox for supporting multimodality in interaction research and we would love to hear from you! Please share what other tools might be useful for interaction research and should be included here.
 
+### Acknowledgments
+
+We thank the authors of OpenPose, OpenSMILE, and whisper for their amazing research and sharing the works as open-source tools. If you find these tools useful in your reserach, please cite the original research papers.
