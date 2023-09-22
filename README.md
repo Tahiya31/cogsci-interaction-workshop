@@ -1,6 +1,8 @@
 # cogsci-interaction-workshop: putting interaction center-stage 
 Python based tutorials for interaction research data analysis.
 
+# [Workshop Proposal](https://escholarship.org/content/qt8571r2dz/qt8571r2dz.pdf)
+
 
 ### Tutorials
 
